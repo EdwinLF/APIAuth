@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\XCPC\\Desktop\\Adquirencia\\APIAuthorizacion\\compartir\\PracticaExamen.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF8277D-97C3-40BD-B44B-45412053C4E0}|PracticaExamen.API\\PracticaExamen.API.csproj|c:\\users\\xcpc\\desktop\\adquirencia\\apiauthorizacion\\compartir\\practicaexamen.api\\practicaexamen.api\\dtos\\autorizationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF8277D-97C3-40BD-B44B-45412053C4E0}|PracticaExamen.API\\PracticaExamen.API.csproj|solutionrelative:practicaexamen.api\\dtos\\autorizationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF8277D-97C3-40BD-B44B-45412053C4E0}|PracticaExamen.API\\PracticaExamen.API.csproj|c:\\users\\xcpc\\desktop\\adquirencia\\apiauthorizacion\\compartir\\practicaexamen.api\\practicaexamen.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9CF8277D-97C3-40BD-B44B-45412053C4E0}|PracticaExamen.API\\PracticaExamen.API.csproj|solutionrelative:practicaexamen.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDA7881-35A4-4D04-B793-C1A727CDD721}|PracticaExamen.DA\\PracticaExamen.DA.csproj|c:\\users\\xcpc\\desktop\\adquirencia\\apiauthorizacion\\compartir\\practicaexamen.api\\practicaexamen.da\\contexto\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DDA7881-35A4-4D04-B793-C1A727CDD721}|PracticaExamen.DA\\PracticaExamen.DA.csproj|solutionrelative:practicaexamen.da\\contexto\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDA7881-35A4-4D04-B793-C1A727CDD721}|PracticaExamen.DA\\PracticaExamen.DA.csproj|c:\\users\\xcpc\\desktop\\adquirencia\\apiauthorizacion\\compartir\\practicaexamen.api\\practicaexamen.da\\entidades\\authorizationda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DDA7881-35A4-4D04-B793-C1A727CDD721}|PracticaExamen.DA\\PracticaExamen.DA.csproj|solutionrelative:practicaexamen.da\\entidades\\authorizationda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF8277D-97C3-40BD-B44B-45412053C4E0}|PracticaExamen.API\\PracticaExamen.API.csproj|c:\\users\\xcpc\\desktop\\adquirencia\\apiauthorizacion\\compartir\\practicaexamen.api\\practicaexamen.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF8277D-97C3-40BD-B44B-45412053C4E0}|PracticaExamen.API\\PracticaExamen.API.csproj|solutionrelative:practicaexamen.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutorizationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\XCPC\\Desktop\\Adquirencia\\APIAuthorizacion\\compartir\\PracticaExamen.API\\PracticaExamen.API\\DTOs\\AutorizationDTO.cs",
+              "RelativeDocumentMoniker": "PracticaExamen.API\\DTOs\\AutorizationDTO.cs",
+              "ToolTip": "C:\\Users\\XCPC\\Desktop\\Adquirencia\\APIAuthorizacion\\compartir\\PracticaExamen.API\\PracticaExamen.API\\DTOs\\AutorizationDTO.cs",
+              "RelativeToolTip": "PracticaExamen.API\\DTOs\\AutorizationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:51:56.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthorizationDA.cs",
+              "DocumentMoniker": "C:\\Users\\XCPC\\Desktop\\Adquirencia\\APIAuthorizacion\\compartir\\PracticaExamen.API\\PracticaExamen.DA\\Entidades\\AuthorizationDA.cs",
+              "RelativeDocumentMoniker": "PracticaExamen.DA\\Entidades\\AuthorizationDA.cs",
+              "ToolTip": "C:\\Users\\XCPC\\Desktop\\Adquirencia\\APIAuthorizacion\\compartir\\PracticaExamen.API\\PracticaExamen.DA\\Entidades\\AuthorizationDA.cs",
+              "RelativeToolTip": "PracticaExamen.DA\\Entidades\\AuthorizationDA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:50:44.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MongoDBSettings.cs",
+              "DocumentMoniker": "C:\\Users\\XCPC\\Desktop\\Adquirencia\\APIAuthorizacion\\compartir\\PracticaExamen.API\\PracticaExamen.DA\\Contexto\\MongoDBSettings.cs",
+              "RelativeDocumentMoniker": "PracticaExamen.DA\\Contexto\\MongoDBSettings.cs",
+              "ToolTip": "C:\\Users\\XCPC\\Desktop\\Adquirencia\\APIAuthorizacion\\compartir\\PracticaExamen.API\\PracticaExamen.DA\\Contexto\\MongoDBSettings.cs",
+              "RelativeToolTip": "PracticaExamen.DA\\Contexto\\MongoDBSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:48:42.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\XCPC\\Desktop\\Adquirencia\\APIAuthorizacion\\compartir\\PracticaExamen.API\\PracticaExamen.API\\Program.cs",
+              "RelativeDocumentMoniker": "PracticaExamen.API\\Program.cs",
+              "ToolTip": "C:\\Users\\XCPC\\Desktop\\Adquirencia\\APIAuthorizacion\\compartir\\PracticaExamen.API\\PracticaExamen.API\\Program.cs",
+              "RelativeToolTip": "PracticaExamen.API\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:45:24.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\XCPC\\Desktop\\Adquirencia\\APIAuthorizacion\\compartir\\PracticaExamen.API\\PracticaExamen.API\\appsettings.json",
+              "RelativeDocumentMoniker": "PracticaExamen.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\XCPC\\Desktop\\Adquirencia\\APIAuthorizacion\\compartir\\PracticaExamen.API\\PracticaExamen.API\\appsettings.json",
+              "RelativeToolTip": "PracticaExamen.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-25T20:45:23.071Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\XCPC\Desktop\Adquirencia\APIGatewayDer\compartir\PracticaExamen.API\PracticaExamen.BW\bin\Release\net8.0\PracticaExamen.BW.deps.json
+C:\Users\XCPC\Desktop\Adquirencia\APIGatewayDer\compartir\PracticaExamen.API\PracticaExamen.BW\bin\Release\net8.0\PracticaExamen.BW.dll
+C:\Users\XCPC\Desktop\Adquirencia\APIGatewayDer\compartir\PracticaExamen.API\PracticaExamen.BW\bin\Release\net8.0\PracticaExamen.BW.pdb
+C:\Users\XCPC\Desktop\Adquirencia\APIGatewayDer\compartir\PracticaExamen.API\PracticaExamen.BW\bin\Release\net8.0\PracticaExamen.BC.dll
+C:\Users\XCPC\Desktop\Adquirencia\APIGatewayDer\compartir\PracticaExamen.API\PracticaExamen.BW\bin\Release\net8.0\PracticaExamen.BC.pdb
+C:\Users\XCPC\Desktop\Adquirencia\APIGatewayDer\compartir\PracticaExamen.API\PracticaExamen.BW\obj\Release\net8.0\PracticaExamen.BW.csproj.AssemblyReference.cache
+C:\Users\XCPC\Desktop\Adquirencia\APIGatewayDer\compartir\PracticaExamen.API\PracticaExamen.BW\obj\Release\net8.0\PracticaExamen.BW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XCPC\Desktop\Adquirencia\APIGatewayDer\compartir\PracticaExamen.API\PracticaExamen.BW\obj\Release\net8.0\PracticaExamen.BW.AssemblyInfoInputs.cache
+C:\Users\XCPC\Desktop\Adquirencia\APIGatewayDer\compartir\PracticaExamen.API\PracticaExamen.BW\obj\Release\net8.0\PracticaExamen.BW.AssemblyInfo.cs
+C:\Users\XCPC\Desktop\Adquirencia\APIGatewayDer\compartir\PracticaExamen.API\PracticaExamen.BW\obj\Release\net8.0\PracticaExamen.BW.csproj.CoreCompileInputs.cache
+C:\Users\XCPC\Desktop\Adquirencia\APIGatewayDer\compartir\PracticaExamen.API\PracticaExamen.BW\obj\Release\net8.0\Practica.AB1DB013.Up2Date
+C:\Users\XCPC\Desktop\Adquirencia\APIGatewayDer\compartir\PracticaExamen.API\PracticaExamen.BW\obj\Release\net8.0\PracticaExamen.BW.dll
+C:\Users\XCPC\Desktop\Adquirencia\APIGatewayDer\compartir\PracticaExamen.API\PracticaExamen.BW\obj\Release\net8.0\refint\PracticaExamen.BW.dll
+C:\Users\XCPC\Desktop\Adquirencia\APIGatewayDer\compartir\PracticaExamen.API\PracticaExamen.BW\obj\Release\net8.0\PracticaExamen.BW.pdb
+C:\Users\XCPC\Desktop\Adquirencia\APIGatewayDer\compartir\PracticaExamen.API\PracticaExamen.BW\obj\Release\net8.0\ref\PracticaExamen.BW.dll

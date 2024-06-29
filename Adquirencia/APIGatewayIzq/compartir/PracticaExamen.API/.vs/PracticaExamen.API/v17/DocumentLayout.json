@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\XCPC\\Desktop\\Adquirencia\\APIGatewayIzq\\compartir\\PracticaExamen.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA1836-D1C5-4A54-8AAE-3017B79491EE}|PracticaExamen.SG\\PracticaExamen.SG.csproj|c:\\users\\xcpc\\desktop\\adquirencia\\apigatewayizq\\compartir\\practicaexamen.api\\practicaexamen.sg\\acciones\\managegatewaysg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BA1836-D1C5-4A54-8AAE-3017B79491EE}|PracticaExamen.SG\\PracticaExamen.SG.csproj|solutionrelative:practicaexamen.sg\\acciones\\managegatewaysg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DEDD67-09E2-4587-97F0-F3BDE71C4C8B}|PracticaExamen.BC\\PracticaExamen.BC.csproj|c:\\users\\xcpc\\desktop\\adquirencia\\apigatewayizq\\compartir\\practicaexamen.api\\practicaexamen.bc\\modelos\\purchaserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DEDD67-09E2-4587-97F0-F3BDE71C4C8B}|PracticaExamen.BC\\PracticaExamen.BC.csproj|solutionrelative:practicaexamen.bc\\modelos\\purchaserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF8277D-97C3-40BD-B44B-45412053C4E0}|PracticaExamen.API\\PracticaExamen.API.csproj|c:\\users\\xcpc\\desktop\\adquirencia\\apigatewayizq\\compartir\\practicaexamen.api\\practicaexamen.api\\controllers\\apigateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF8277D-97C3-40BD-B44B-45412053C4E0}|PracticaExamen.API\\PracticaExamen.API.csproj|solutionrelative:practicaexamen.api\\controllers\\apigateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DEDD67-09E2-4587-97F0-F3BDE71C4C8B}|PracticaExamen.BC\\PracticaExamen.BC.csproj|c:\\users\\xcpc\\desktop\\adquirencia\\apigatewayizq\\compartir\\practicaexamen.api\\practicaexamen.bc\\constantes\\urlauthorizationconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DEDD67-09E2-4587-97F0-F3BDE71C4C8B}|PracticaExamen.BC\\PracticaExamen.BC.csproj|solutionrelative:practicaexamen.bc\\constantes\\urlauthorizationconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DEDD67-09E2-4587-97F0-F3BDE71C4C8B}|PracticaExamen.BC\\PracticaExamen.BC.csproj|c:\\users\\xcpc\\desktop\\adquirencia\\apigatewayizq\\compartir\\practicaexamen.api\\practicaexamen.bc\\modelos\\purchaseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DEDD67-09E2-4587-97F0-F3BDE71C4C8B}|PracticaExamen.BC\\PracticaExamen.BC.csproj|solutionrelative:practicaexamen.bc\\modelos\\purchaseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PurchaseRequest.cs",
+              "DocumentMoniker": "C:\\Users\\XCPC\\Desktop\\Adquirencia\\APIGatewayIzq\\compartir\\PracticaExamen.API\\PracticaExamen.BC\\Modelos\\PurchaseRequest.cs",
+              "RelativeDocumentMoniker": "PracticaExamen.BC\\Modelos\\PurchaseRequest.cs",
+              "ToolTip": "C:\\Users\\XCPC\\Desktop\\Adquirencia\\APIGatewayIzq\\compartir\\PracticaExamen.API\\PracticaExamen.BC\\Modelos\\PurchaseRequest.cs",
+              "RelativeToolTip": "PracticaExamen.BC\\Modelos\\PurchaseRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T20:36:57.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManageGatewaySG.cs",
+              "DocumentMoniker": "C:\\Users\\XCPC\\Desktop\\Adquirencia\\APIGatewayIzq\\compartir\\PracticaExamen.API\\PracticaExamen.SG\\Acciones\\ManageGatewaySG.cs",
+              "RelativeDocumentMoniker": "PracticaExamen.SG\\Acciones\\ManageGatewaySG.cs",
+              "ToolTip": "C:\\Users\\XCPC\\Desktop\\Adquirencia\\APIGatewayIzq\\compartir\\PracticaExamen.API\\PracticaExamen.SG\\Acciones\\ManageGatewaySG.cs",
+              "RelativeToolTip": "PracticaExamen.SG\\Acciones\\ManageGatewaySG.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T20:32:16.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "URLAuthorizationConstant.cs",
+              "DocumentMoniker": "C:\\Users\\XCPC\\Desktop\\Adquirencia\\APIGatewayIzq\\compartir\\PracticaExamen.API\\PracticaExamen.BC\\Constantes\\URLAuthorizationConstant.cs",
+              "RelativeDocumentMoniker": "PracticaExamen.BC\\Constantes\\URLAuthorizationConstant.cs",
+              "ToolTip": "C:\\Users\\XCPC\\Desktop\\Adquirencia\\APIGatewayIzq\\compartir\\PracticaExamen.API\\PracticaExamen.BC\\Constantes\\URLAuthorizationConstant.cs",
+              "RelativeToolTip": "PracticaExamen.BC\\Constantes\\URLAuthorizationConstant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T20:23:17.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PurchaseResponse.cs",
+              "DocumentMoniker": "C:\\Users\\XCPC\\Desktop\\Adquirencia\\APIGatewayIzq\\compartir\\PracticaExamen.API\\PracticaExamen.BC\\Modelos\\PurchaseResponse.cs",
+              "RelativeDocumentMoniker": "PracticaExamen.BC\\Modelos\\PurchaseResponse.cs",
+              "ToolTip": "C:\\Users\\XCPC\\Desktop\\Adquirencia\\APIGatewayIzq\\compartir\\PracticaExamen.API\\PracticaExamen.BC\\Modelos\\PurchaseResponse.cs",
+              "RelativeToolTip": "PracticaExamen.BC\\Modelos\\PurchaseResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T20:01:39.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "APIGateway.cs",
+              "DocumentMoniker": "C:\\Users\\XCPC\\Desktop\\Adquirencia\\APIGatewayIzq\\compartir\\PracticaExamen.API\\PracticaExamen.API\\Controllers\\APIGateway.cs",
+              "RelativeDocumentMoniker": "PracticaExamen.API\\Controllers\\APIGateway.cs",
+              "ToolTip": "C:\\Users\\XCPC\\Desktop\\Adquirencia\\APIGatewayIzq\\compartir\\PracticaExamen.API\\PracticaExamen.API\\Controllers\\APIGateway.cs",
+              "RelativeToolTip": "PracticaExamen.API\\Controllers\\APIGateway.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T19:56:13.511Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

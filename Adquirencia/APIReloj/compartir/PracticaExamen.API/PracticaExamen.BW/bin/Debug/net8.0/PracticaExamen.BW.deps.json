@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PracticaExamen.BW/1.0.0": {
+        "dependencies": {
+          "PracticaExamen.BC": "1.0.0"
+        },
+        "runtime": {
+          "PracticaExamen.BW.dll": {}
+        }
+      },
+      "PracticaExamen.BC/1.0.0": {
+        "runtime": {
+          "PracticaExamen.BC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PracticaExamen.BW/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PracticaExamen.BC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

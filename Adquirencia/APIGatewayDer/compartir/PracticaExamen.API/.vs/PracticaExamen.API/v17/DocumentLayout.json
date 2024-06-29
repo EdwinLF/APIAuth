@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\XCPC\\Desktop\\Adquirencia\\APIGatewayDer\\compartir\\PracticaExamen.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DEDD67-09E2-4587-97F0-F3BDE71C4C8B}|PracticaExamen.BC\\PracticaExamen.BC.csproj|c:\\users\\xcpc\\desktop\\adquirencia\\apigatewayder\\compartir\\practicaexamen.api\\practicaexamen.bc\\constantes\\urlauthorizationconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DEDD67-09E2-4587-97F0-F3BDE71C4C8B}|PracticaExamen.BC\\PracticaExamen.BC.csproj|solutionrelative:practicaexamen.bc\\constantes\\urlauthorizationconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BA1836-D1C5-4A54-8AAE-3017B79491EE}|PracticaExamen.SG\\PracticaExamen.SG.csproj|c:\\users\\xcpc\\desktop\\adquirencia\\apigatewayder\\compartir\\practicaexamen.api\\practicaexamen.sg\\acciones\\managegatewaysg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BA1836-D1C5-4A54-8AAE-3017B79491EE}|PracticaExamen.SG\\PracticaExamen.SG.csproj|solutionrelative:practicaexamen.sg\\acciones\\managegatewaysg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF8277D-97C3-40BD-B44B-45412053C4E0}|PracticaExamen.API\\PracticaExamen.API.csproj|c:\\users\\xcpc\\desktop\\adquirencia\\apigatewayder\\compartir\\practicaexamen.api\\practicaexamen.api\\controllers\\gatewaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF8277D-97C3-40BD-B44B-45412053C4E0}|PracticaExamen.API\\PracticaExamen.API.csproj|solutionrelative:practicaexamen.api\\controllers\\gatewaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50334FBE-1017-40AB-9E8C-89C1607FD538}|PracticaExamen.BW\\PracticaExamen.BW.csproj|c:\\users\\xcpc\\desktop\\adquirencia\\apigatewayder\\compartir\\practicaexamen.api\\practicaexamen.bw\\interfaces\\bw\\imanagegatewaybw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50334FBE-1017-40AB-9E8C-89C1607FD538}|PracticaExamen.BW\\PracticaExamen.BW.csproj|solutionrelative:practicaexamen.bw\\interfaces\\bw\\imanagegatewaybw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50334FBE-1017-40AB-9E8C-89C1607FD538}|PracticaExamen.BW\\PracticaExamen.BW.csproj|c:\\users\\xcpc\\desktop\\adquirencia\\apigatewayder\\compartir\\practicaexamen.api\\practicaexamen.bw\\interfaces\\sg\\imanagegatewaysg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50334FBE-1017-40AB-9E8C-89C1607FD538}|PracticaExamen.BW\\PracticaExamen.BW.csproj|solutionrelative:practicaexamen.bw\\interfaces\\sg\\imanagegatewaysg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50334FBE-1017-40AB-9E8C-89C1607FD538}|PracticaExamen.BW\\PracticaExamen.BW.csproj|c:\\users\\xcpc\\desktop\\adquirencia\\apigatewayder\\compartir\\practicaexamen.api\\practicaexamen.bw\\cu\\managegateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50334FBE-1017-40AB-9E8C-89C1607FD538}|PracticaExamen.BW\\PracticaExamen.BW.csproj|solutionrelative:practicaexamen.bw\\cu\\managegateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF8277D-97C3-40BD-B44B-45412053C4E0}|PracticaExamen.API\\PracticaExamen.API.csproj|c:\\users\\xcpc\\desktop\\adquirencia\\apigatewayder\\compartir\\practicaexamen.api\\practicaexamen.api\\dtos\\isodatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF8277D-97C3-40BD-B44B-45412053C4E0}|PracticaExamen.API\\PracticaExamen.API.csproj|solutionrelative:practicaexamen.api\\dtos\\isodatadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DEDD67-09E2-4587-97F0-F3BDE71C4C8B}|PracticaExamen.BC\\PracticaExamen.BC.csproj|c:\\users\\xcpc\\desktop\\adquirencia\\apigatewayder\\compartir\\practicaexamen.api\\practicaexamen.bc\\modelos\\isodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DEDD67-09E2-4587-97F0-F3BDE71C4C8B}|PracticaExamen.BC\\PracticaExamen.BC.csproj|solutionrelative:practicaexamen.bc\\modelos\\isodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF8277D-97C3-40BD-B44B-45412053C4E0}|PracticaExamen.API\\PracticaExamen.API.csproj|c:\\users\\xcpc\\desktop\\adquirencia\\apigatewayder\\compartir\\practicaexamen.api\\practicaexamen.api\\utilitarios\\isodtomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF8277D-97C3-40BD-B44B-45412053C4E0}|PracticaExamen.API\\PracticaExamen.API.csproj|solutionrelative:practicaexamen.api\\utilitarios\\isodtomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ISOData.cs",
+              "DocumentMoniker": "C:\\Users\\XCPC\\Desktop\\Adquirencia\\APIGatewayDer\\compartir\\PracticaExamen.API\\PracticaExamen.BC\\Modelos\\ISOData.cs",
+              "RelativeDocumentMoniker": "PracticaExamen.BC\\Modelos\\ISOData.cs",
+              "ToolTip": "C:\\Users\\XCPC\\Desktop\\Adquirencia\\APIGatewayDer\\compartir\\PracticaExamen.API\\PracticaExamen.BC\\Modelos\\ISOData.cs",
+              "RelativeToolTip": "PracticaExamen.BC\\Modelos\\ISOData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T02:20:13.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISODataDTO.cs",
+              "DocumentMoniker": "C:\\Users\\XCPC\\Desktop\\Adquirencia\\APIGatewayDer\\compartir\\PracticaExamen.API\\PracticaExamen.API\\DTOs\\ISODataDTO.cs",
+              "RelativeDocumentMoniker": "PracticaExamen.API\\DTOs\\ISODataDTO.cs",
+              "ToolTip": "C:\\Users\\XCPC\\Desktop\\Adquirencia\\APIGatewayDer\\compartir\\PracticaExamen.API\\PracticaExamen.API\\DTOs\\ISODataDTO.cs",
+              "RelativeToolTip": "PracticaExamen.API\\DTOs\\ISODataDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T02:19:02.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GatewayController.cs",
+              "DocumentMoniker": "C:\\Users\\XCPC\\Desktop\\Adquirencia\\APIGatewayDer\\compartir\\PracticaExamen.API\\PracticaExamen.API\\Controllers\\GatewayController.cs",
+              "RelativeDocumentMoniker": "PracticaExamen.API\\Controllers\\GatewayController.cs",
+              "ToolTip": "C:\\Users\\XCPC\\Desktop\\Adquirencia\\APIGatewayDer\\compartir\\PracticaExamen.API\\PracticaExamen.API\\Controllers\\GatewayController.cs",
+              "RelativeToolTip": "PracticaExamen.API\\Controllers\\GatewayController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAjwBMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T01:55:25.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManageGatewaySG.cs",
+              "DocumentMoniker": "C:\\Users\\XCPC\\Desktop\\Adquirencia\\APIGatewayDer\\compartir\\PracticaExamen.API\\PracticaExamen.SG\\Acciones\\ManageGatewaySG.cs",
+              "RelativeDocumentMoniker": "PracticaExamen.SG\\Acciones\\ManageGatewaySG.cs",
+              "ToolTip": "C:\\Users\\XCPC\\Desktop\\Adquirencia\\APIGatewayDer\\compartir\\PracticaExamen.API\\PracticaExamen.SG\\Acciones\\ManageGatewaySG.cs",
+              "RelativeToolTip": "PracticaExamen.SG\\Acciones\\ManageGatewaySG.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T17:20:36.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManageGateway.cs",
+              "DocumentMoniker": "C:\\Users\\XCPC\\Desktop\\Adquirencia\\APIGatewayDer\\compartir\\PracticaExamen.API\\PracticaExamen.BW\\CU\\ManageGateway.cs",
+              "RelativeDocumentMoniker": "PracticaExamen.BW\\CU\\ManageGateway.cs",
+              "ToolTip": "C:\\Users\\XCPC\\Desktop\\Adquirencia\\APIGatewayDer\\compartir\\PracticaExamen.API\\PracticaExamen.BW\\CU\\ManageGateway.cs",
+              "RelativeToolTip": "PracticaExamen.BW\\CU\\ManageGateway.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwBMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T17:11:14.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IManageGatewaySG.cs",
+              "DocumentMoniker": "C:\\Users\\XCPC\\Desktop\\Adquirencia\\APIGatewayDer\\compartir\\PracticaExamen.API\\PracticaExamen.BW\\Interfaces\\SG\\IManageGatewaySG.cs",
+              "RelativeDocumentMoniker": "PracticaExamen.BW\\Interfaces\\SG\\IManageGatewaySG.cs",
+              "ToolTip": "C:\\Users\\XCPC\\Desktop\\Adquirencia\\APIGatewayDer\\compartir\\PracticaExamen.API\\PracticaExamen.BW\\Interfaces\\SG\\IManageGatewaySG.cs",
+              "RelativeToolTip": "PracticaExamen.BW\\Interfaces\\SG\\IManageGatewaySG.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T17:06:36.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IManageGatewayBW.cs",
+              "DocumentMoniker": "C:\\Users\\XCPC\\Desktop\\Adquirencia\\APIGatewayDer\\compartir\\PracticaExamen.API\\PracticaExamen.BW\\Interfaces\\BW\\IManageGatewayBW.cs",
+              "RelativeDocumentMoniker": "PracticaExamen.BW\\Interfaces\\BW\\IManageGatewayBW.cs",
+              "ToolTip": "C:\\Users\\XCPC\\Desktop\\Adquirencia\\APIGatewayDer\\compartir\\PracticaExamen.API\\PracticaExamen.BW\\Interfaces\\BW\\IManageGatewayBW.cs",
+              "RelativeToolTip": "PracticaExamen.BW\\Interfaces\\BW\\IManageGatewayBW.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T01:32:39.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "URLAuthorizationConstant.cs",
+              "DocumentMoniker": "C:\\Users\\XCPC\\Desktop\\Adquirencia\\APIGatewayDer\\compartir\\PracticaExamen.API\\PracticaExamen.BC\\Constantes\\URLAuthorizationConstant.cs",
+              "RelativeDocumentMoniker": "PracticaExamen.BC\\Constantes\\URLAuthorizationConstant.cs",
+              "ToolTip": "C:\\Users\\XCPC\\Desktop\\Adquirencia\\APIGatewayDer\\compartir\\PracticaExamen.API\\PracticaExamen.BC\\Constantes\\URLAuthorizationConstant.cs",
+              "RelativeToolTip": "PracticaExamen.BC\\Constantes\\URLAuthorizationConstant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T17:03:46.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISODTOMapper.cs",
+              "DocumentMoniker": "C:\\Users\\XCPC\\Desktop\\Adquirencia\\APIGatewayDer\\compartir\\PracticaExamen.API\\PracticaExamen.API\\Utilitarios\\ISODTOMapper.cs",
+              "RelativeDocumentMoniker": "PracticaExamen.API\\Utilitarios\\ISODTOMapper.cs",
+              "ToolTip": "C:\\Users\\XCPC\\Desktop\\Adquirencia\\APIGatewayDer\\compartir\\PracticaExamen.API\\PracticaExamen.API\\Utilitarios\\ISODTOMapper.cs",
+              "RelativeToolTip": "PracticaExamen.API\\Utilitarios\\ISODTOMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T02:23:47.272Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
